@@ -47,5 +47,9 @@ Generative AI (Gen AI) leverages **large language models (LLMs)** to analyze, su
 ## 3. Large Language Model
 A Large Language Model (LLM) is an advanced AI system trained on vast amounts of text data to understand, generate, and process human language. These models use deep learning techniques, particularly transformers (like GPT, BERT, or LLaMA), to recognize patterns, predict words, and generate human-like responses.
 
+## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 233837" src="https://github.com/user-attachments/assets/7a3f6435-5d4a-45cd-9d6e-22786f733f79" />
+
+
 ---
 
