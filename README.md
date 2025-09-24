@@ -25,3 +25,22 @@ On **Day 2** of my **10-day AI + DevOps challenge**, I focused on **Prompt Engin
 - ✅ Built **Terraform templates** for quick infra setup  
 
 Prompt design isn’t theory — it’s a **practical DevOps skill**. Done right, it makes workflows **faster, smarter, and more reliable** 🚀
+
+# Day 3 — Running LLMs Locally & Making API Calls ⚡🤖
+
+On **Day 3** of my **10-day AI + DevOps challenge**, I explored how to **run LLMs locally** and **call AI via APIs** to automate DevOps workflows.
+
+## 🔑 Focus Areas
+- 🖥 Running LLMs locally: **Ollama, LM Studio, GPT4All**  
+- 🌐 Calling AI via APIs: **OpenAI, Mistral, LLaMA, DeepSeek, etc.**  
+- 🐍 Writing **Python scripts** to invoke the Ollama API  
+
+## 🛠 Hands-on Achievements
+- ✅ Built a **Dockerfile Generator** using the **Llama3 model via Ollama API** to auto-generate Docker manifests 🚀  
+
+## ⚡ Mini-Challenge
+- Auto-generated **Kubernetes manifests** using an AI API with Llama3 — speeding up infrastructure setup and reducing manual effort  
+
+## 💡 Key Takeaway
+Running LLMs locally gives DevOps engineers **control, cost savings, and flexibility**, while API calls unlock **powerful automation workflows**.
+
