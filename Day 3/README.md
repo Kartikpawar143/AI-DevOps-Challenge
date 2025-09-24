@@ -59,3 +59,13 @@ python3 generate_dockerfile.py
 Enter programming language: python
 # Generated Dockerfile will be displayed...
 ```
+## Outputs
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 185909" src="https://github.com/user-attachments/assets/94126ae0-4f04-4068-bd90-a9b8e14b62d5" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 191313" src="https://github.com/user-attachments/assets/62955539-e1c0-429c-b040-0611d5fafbfc" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 194403" src="https://github.com/user-attachments/assets/734061b4-8e39-4481-a9c7-6662b296c261" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 194517" src="https://github.com/user-attachments/assets/adb94313-1e16-46b1-8a68-43cd825d22c6" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 194931" src="https://github.com/user-attachments/assets/49759603-6425-43af-8a54-a9a3fc788e93" />
