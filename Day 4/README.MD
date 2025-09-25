@@ -12,4 +12,5 @@ On **Day 4** of my **10-day AI + DevOps challenge**, I automated AWS networking 
 💡 **Outcome:**  
 This script **automates AWS networking setup** with just one command, ensuring checks for **CLI installation** and **configuration** before provisioning resources.  
 
-#AWS #DevOps #Automation #Bash #CloudComputing  
+# Outputs
+
