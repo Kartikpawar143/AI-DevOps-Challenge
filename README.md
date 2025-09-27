@@ -64,17 +64,17 @@ This script **automates AWS networking setup** with just one command, ensuring c
 
 On Day 6 of my **10-day AI + DevOps challenge**, I explored how **AIOps (AI for IT Operations)** can help detect anomalies and predict failures from system logs.
 
-## 📌 Topics Covered
+📌 **Topics Covered**
 - Recap of AIOps and its importance
 - AI-powered log analysis
 - Anomaly detection using Python & ML
 - Predicting server/app failures from logs
 
-## 🛠 Hands-on Demos
+🛠 **Hands-on Demos**
 - **AI-driven Anomaly Detection:** Used machine learning to identify unusual patterns in logs automatically.
 - **Rule-based Error Spike Detection:** Monitored logs for sudden spikes in errors and triggered alerts.
 
-## 💡 Outcome
+ 💡 **Outcome**
 - Built workflows to **detect unusual patterns in logs** proactively.
 - Learned how AI can **predict server/application failures** before they escalate.
 - Combined ML-based detection with rule-based thresholds for **robust monitoring**.
