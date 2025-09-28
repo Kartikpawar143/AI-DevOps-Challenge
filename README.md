@@ -58,7 +58,6 @@ On **Day 4** of my **10-day AI + DevOps challenge**, I automated AWS networking 
 💡 **Outcome:**  
 This script **automates AWS networking setup** with just one command, ensuring checks for **CLI installation** and **configuration** before provisioning resources.  
 
-#AWS #DevOps #Automation #Bash #CloudComputing  
 
 # Day 6 — AIOps: AI for IT Operations ⚙️🤖
 
@@ -81,5 +80,4 @@ On Day 6 of my **10-day AI + DevOps challenge**, I explored how **AIOps (AI for 
 
 AIOps demonstrates how AI can **enhance IT operations**, reduce manual monitoring, and enable proactive responses.
 
-#AIOps #DevOps #AI #AnomalyDetection #Automation
 
